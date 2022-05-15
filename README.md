@@ -1,16 +1,23 @@
-### Hi there 👋
+## 👤 About me
+Hey! I am developer who like to make discord bots.
+My discord bot - [ArmiBot](https://github.com/lifyxus/ArmiBot)
 
-<!--
-**Ficus-x/ficus-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔗 Where to find me
+• [Steam](https://steamcommunity.com/id/lifyxus/)
 
-Here are some ideas to get you started:
+• [Discord](https://discord.com/users/510752968551825409)
+## 🎎 Languages & Frameworks
+• ⚙ .Net C# (Discord.NET)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• 🛠 studing javascript
+
+## 🎫 Databases
+• 🐘 Postgresql
+
+## 🥽 Projects
+
+### 🎃 Letoff bot
+• [LetoffBot](https://github.com/lifyxus/letoffBot) is a bot which is used on Letoff's.
+
+### 🎲 ArmiBot
+• [ArmiBot](https://github.com/lifyxus/ArmiBot) is a bot which is developed by me now. You can take a look at its profile on [top.gg](https://top.gg/bot/937783743828082788) 
